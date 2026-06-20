@@ -8,9 +8,9 @@ export const site = {
   lastUpdated: '20 juin 2026',
   minAge: 13,
 
-  // Hébergeur (mentions légales — droit français / LCEN).
+  // Hébergeur (mentions légales, droit français / LCEN).
   host: {
-    name: 'GitHub Pages — GitHub, Inc.',
+    name: 'GitHub Pages (GitHub, Inc.)',
     address: '88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis',
   },
 

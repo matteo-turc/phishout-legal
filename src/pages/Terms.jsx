@@ -70,7 +70,7 @@ export default function Terms() {
         Dans les limites permises par la loi applicable, {site.editor} ne saurait
         être tenu responsable des dommages directs ou indirects résultant de
         l'utilisation ou de l'impossibilité d'utiliser l'application, ou du fait
-        de s'être fié à un résultat fourni par celle-ci — y compris, sans
+        de s'être fié à un résultat fourni par celle-ci, y compris, sans
         limitation, toute fraude subie, perte financière, perte de données ou
         préjudice de toute nature.
       </p>
@@ -112,7 +112,7 @@ export default function Terms() {
       <h2>8. Usage acceptable</h2>
       <p>
         Vous vous engagez à utiliser {site.appName} conformément à la loi et à sa
-        finalité — un outil défensif d'aide à la détection d'arnaques — et à ne
+        finalité (un outil défensif d'aide à la détection d'arnaques) et à ne
         pas en détourner l'usage.
       </p>
 

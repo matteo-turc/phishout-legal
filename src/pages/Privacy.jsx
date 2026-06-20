@@ -60,7 +60,7 @@ export default function Privacy() {
         <li>Aucun cookie, aucun outil d'analyse d'audience.</li>
         <li>Aucune publicité, aucun identifiant publicitaire (IDFA).</li>
         <li>Aucun pistage entre applications ou sites tiers.</li>
-        <li>Aucune revente ni partage de données — il n'y en a tout simplement pas.</li>
+        <li>Aucune revente ni partage de données : il n'y en a tout simplement pas.</li>
       </ul>
 
       <h2>5. Autorisations de l'appareil</h2>
@@ -110,8 +110,8 @@ export default function Privacy() {
       <h2>10. Mineurs</h2>
       <p>
         {site.appName} s'adresse à un public âgé de {site.minAge} ans et plus.
-        L'application ne collecte sciemment aucune donnée concernant des enfants
-        — elle ne collecte aucune donnée du tout.
+        L'application ne collecte sciemment aucune donnée concernant des enfants,
+        elle ne collecte aucune donnée du tout.
       </p>
 
       <h2>11. Modifications</h2>

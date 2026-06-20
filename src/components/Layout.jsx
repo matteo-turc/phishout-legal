@@ -42,7 +42,7 @@ export default function Layout({ children }) {
       <footer className="site-footer">
         <div className="container">
           <p>
-            {site.appName} — édité par {site.editor} ({site.country}).
+            {site.appName}, édité par {site.editor} ({site.country}).
           </p>
           <p className="footer-links">
             <NavLink to="/confidentialite">Confidentialité</NavLink>

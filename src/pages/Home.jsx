@@ -7,7 +7,7 @@ export default function Home() {
       <h1>{site.appName}</h1>
       <p className="lead">
         Le détecteur d'arnaques et d'hameçonnage 100 % hors ligne. Vos messages
-        sont analysés directement sur votre appareil — rien n'est jamais envoyé
+        sont analysés directement sur votre appareil, rien n'est jamais envoyé
         sur Internet.
       </p>
 
