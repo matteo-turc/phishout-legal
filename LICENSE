@@ -1,0 +1,57 @@
+PhishOut Legal Pages - Proprietary License
+Copyright (c) 2026 Turc Mattéo. All rights reserved.
+
+This license governs the contents of this repository (the legal/support pages
+of the PhishOut application). It is intentionally strict: no rights are granted
+to anyone.
+
+1. OWNERSHIP
+   This repository and all of its contents, including but not limited to source
+   code, configuration, designs, text, and documentation (collectively, the
+   "Work"), are the exclusive property of Turc Mattéo (the "Owner") and are
+   protected by copyright and other intellectual-property laws.
+
+2. NO LICENSE GRANTED
+   No license, right, or permission of any kind is granted to you. You may NOT,
+   in whole or in part, directly or indirectly, for any purpose whatsoever
+   (commercial or non-commercial):
+     (a) use, run, build, or deploy the Work;
+     (b) copy, reproduce, host, or store the Work;
+     (c) modify, adapt, translate, or create derivative works from the Work;
+     (d) merge, publish, distribute, sublicense, lease, sell, or otherwise
+         transfer or make the Work available to any third party;
+     (e) reuse the text, wording, or design of these pages for any other
+         website, application, or product;
+     (f) remove, obscure, or alter any proprietary or attribution notice.
+
+3. PUBLIC VISIBILITY IS NOT A LICENSE
+   The Work is published in a public repository and served as a public website
+   solely so that it can be linked from the PhishOut application and reviewed by
+   the relevant application store. Such public availability does NOT grant you
+   any right to use the Work, does NOT constitute open-source publication, and
+   does NOT place the Work in the public domain.
+
+4. THIRD-PARTY COMPONENTS
+   Build dependencies (for example React, React Router, and Vite) are installed
+   separately and remain governed solely by their own licenses. Nothing in this
+   license restricts, modifies, or overrides those third-party licenses.
+
+5. NO WARRANTY
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR
+   OTHER DEALINGS IN THE WORK.
+
+7. PERMISSIONS
+   Any use of the Work requires the prior, express, written permission of the
+   Owner. Requests: turc.matteo.dev@gmail.com
+
+8. GOVERNING LAW
+   This license is governed by the laws of France. Any dispute relating to it
+   shall be subject to the exclusive jurisdiction of the competent French
+   courts, without prejudice to any mandatory provisions of applicable law.
+
+All rights reserved.
