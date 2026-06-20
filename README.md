@@ -1,4 +1,4 @@
-# PhishOut — Pages légales
+# PhishOut - Pages légales
 
 Site statique (React + Vite) regroupant les pages **Confidentialité**, **Support**
 et **Conditions d'utilisation** de l'application PhishOut, hébergé sur GitHub Pages.
