@@ -6,6 +6,7 @@ import Home from './pages/Home.jsx'
 import Privacy from './pages/Privacy.jsx'
 import Support from './pages/Support.jsx'
 import Terms from './pages/Terms.jsx'
+import Credits from './pages/Credits.jsx'
 import './styles.css'
 
 // HashRouter : les routes vivent après le « # » (ex. /#/confidentialite).
@@ -20,6 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/confidentialite" element={<Privacy />} />
           <Route path="/support" element={<Support />} />
           <Route path="/conditions" element={<Terms />} />
+          <Route path="/credits" element={<Credits />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </Layout>

@@ -33,6 +33,9 @@ export default function Layout({ children }) {
             <NavLink to="/conditions" className={navLinkClass}>
               Conditions
             </NavLink>
+            <NavLink to="/credits" className={navLinkClass}>
+              Crédits
+            </NavLink>
           </nav>
         </div>
       </header>
@@ -48,6 +51,7 @@ export default function Layout({ children }) {
             <NavLink to="/confidentialite">Confidentialité</NavLink>
             <NavLink to="/support">Support</NavLink>
             <NavLink to="/conditions">Conditions d'utilisation</NavLink>
+            <NavLink to="/credits">Crédits</NavLink>
           </p>
           <p className="muted">
             Contact :{' '}

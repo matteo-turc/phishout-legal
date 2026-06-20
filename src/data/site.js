@@ -26,6 +26,7 @@ export const site = {
     privacy: 'https://matteo-turc.github.io/phishout-legal/#/confidentialite',
     support: 'https://matteo-turc.github.io/phishout-legal/#/support',
     terms: 'https://matteo-turc.github.io/phishout-legal/#/conditions',
+    credits: 'https://matteo-turc.github.io/phishout-legal/#/credits',
   },
 }
 
